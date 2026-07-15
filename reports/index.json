@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260714-192340-0mwj",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "dateStart": "2026-07-15T00:23:40.000Z",
+      "dateEnd": "2026-07-15T02:39:29.000Z",
+      "dateLabel": "7/14/2026, 7:23:40 PM - 7/14/2026, 9:39:29 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260714-192340-0mwj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 16
+      }
+    }
+  ]
+}
