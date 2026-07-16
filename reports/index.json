@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-210307-c26s",
+      "title": "Mylo Da Reaper, Vape Onion Star",
+      "commanders": [
+        "Mylo Da Reaper",
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-07-13T02:03:07.000Z",
+      "dateEnd": "2026-07-13T03:05:51.000Z",
+      "dateLabel": "7/12/2026, 9:03:07 PM - 7/12/2026, 10:05:51 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260712-210307-c26s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260715-195111-bd64",
       "title": "Prosecute",
       "commanders": [
