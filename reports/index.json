@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260717-220002-b1zk",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "dateStart": "2026-07-18T03:00:02.000Z",
+      "dateEnd": "2026-07-18T04:17:26.000Z",
+      "dateLabel": "7/17/2026, 10:00:02 PM - 7/17/2026, 11:17:26 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260717-220002-b1zk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 64
+      }
+    },
+    {
       "id": "20260712-210307-c26s",
       "title": "Mylo Da Reaper, Vape Onion Star",
       "commanders": [
