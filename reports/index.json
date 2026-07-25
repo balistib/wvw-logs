@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-221021-2hvl",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "dateStart": "2026-07-25T03:10:21.000Z",
+      "dateEnd": "2026-07-25T04:32:25.000Z",
+      "dateLabel": "7/24/2026, 10:10:21 PM - 7/24/2026, 11:32:25 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260724-221021-2hvl",
+      "summary": {
+        "borderlandsPct": 0.8064516129032258,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260721-192405-pbd7",
       "title": "Prosecute",
       "commanders": [
