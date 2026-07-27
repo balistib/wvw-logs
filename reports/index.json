@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-194846-h3gu",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "dateStart": "2026-07-27T00:48:46.000Z",
+      "dateEnd": "2026-07-27T02:53:24.000Z",
+      "dateLabel": "7/26/2026, 7:48:46 PM - 7/26/2026, 9:53:24 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260726-194846-h3gu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260725-191958-asiz",
       "title": "Tràsh Pandà",
       "commanders": [
