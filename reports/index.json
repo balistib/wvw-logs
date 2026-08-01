@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-202357-zs25",
+      "title": "Asharom, Tràsh Pandà",
+      "commanders": [
+        "Asharom",
+        "Tràsh Pandà"
+      ],
+      "dateStart": "2026-08-01T01:23:57.000Z",
+      "dateEnd": "2026-08-01T04:39:33.000Z",
+      "dateLabel": "7/31/2026, 8:23:57 PM - 7/31/2026, 11:39:33 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260731-202357-zs25",
+      "summary": {
+        "borderlandsPct": 0.3076923076923077,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260728-211004-j4kc",
       "title": "Prosecute",
       "commanders": [
