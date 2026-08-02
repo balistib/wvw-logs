@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-214557-rr0m",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "dateStart": "2026-08-02T02:45:57.000Z",
+      "dateEnd": "2026-08-02T04:25:14.000Z",
+      "dateLabel": "8/1/2026, 9:45:57 PM - 8/1/2026, 11:25:14 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260801-214557-rr0m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260801-114238-csqm",
       "title": "Chonkolat Tinkleton",
       "commanders": [
