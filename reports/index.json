@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-203531-1ulq",
+      "title": "Prosecute",
+      "commanders": [
+        "Prosecute"
+      ],
+      "dateStart": "2026-08-05T01:35:31.000Z",
+      "dateEnd": "2026-08-05T02:34:46.000Z",
+      "dateLabel": "8/4/2026, 8:35:31 PM - 8/4/2026, 9:34:46 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260804-203531-1ulq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 31,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260802-221756-kq1c",
       "title": "Tràsh Pandà",
       "commanders": [
