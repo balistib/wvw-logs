@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-112454-isfd",
+      "title": "Salamander West",
+      "commanders": [
+        "Salamander West"
+      ],
+      "dateStart": "2026-08-22T16:24:54.000Z",
+      "dateEnd": "2026-08-22T17:13:02.000Z",
+      "dateLabel": "8/22/2026, 11:24:54 AM - 8/22/2026, 12:13:02 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260822-112454-isfd",
+      "summary": {
+        "borderlandsPct": 0.5806451612903226,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260821-215543-41bz",
       "title": "Tràsh Pandà",
       "commanders": [
