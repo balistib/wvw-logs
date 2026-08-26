@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-173828-0k3h",
+      "title": "Eiloora Havocsinger, Yeees Kingg",
+      "commanders": [
+        "Eiloora Havocsinger",
+        "Yeees Kingg"
+      ],
+      "dateStart": "2026-08-24T22:38:28.000Z",
+      "dateEnd": "2026-08-25T00:00:50.000Z",
+      "dateLabel": "8/24/2026, 5:38:28 PM - 8/24/2026, 7:00:50 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260824-173828-0k3h",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260822-202042-0upl",
       "title": "Tràsh Pandà",
       "commanders": [
