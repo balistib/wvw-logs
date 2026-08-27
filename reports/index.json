@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-220033-jrud",
+      "title": "Baltt The Old",
+      "commanders": [
+        "Baltt The Old"
+      ],
+      "dateStart": "2026-08-27T03:00:33.000Z",
+      "dateEnd": "2026-08-27T03:46:08.000Z",
+      "dateLabel": "8/26/2026, 10:00:33 PM - 8/26/2026, 10:46:08 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260826-220033-jrud",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260824-173828-0k3h",
       "title": "Eiloora Havocsinger, Yeees Kingg",
       "commanders": [
