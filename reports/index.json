@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-195734-e3ul",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-07T00:57:34.000Z",
+      "dateEnd": "2026-09-07T02:25:14.744Z",
+      "dateLabel": "9/6/2026, 7:57:34 PM - 9/6/2026, 9:25:14 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260906-195734-e3ul",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260905-192627-42wz",
       "title": "Asharom",
       "commanders": [
