@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-192627-42wz",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-06T00:26:27.000Z",
+      "dateEnd": "2026-09-06T03:46:33.719Z",
+      "dateLabel": "9/5/2026, 7:26:27 PM - 9/5/2026, 10:46:33 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20260905-192627-42wz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 41,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260902-202213-44lb",
       "title": "B A L T T",
       "commanders": [
