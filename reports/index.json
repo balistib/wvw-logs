@@ -1,8 +1,42 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20261003-202555-z34k",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "CF06831B-599E-EF11-8465-02315AB41281",
+        "name": "Mind Gôblin",
+        "tag": "deez"
+      },
+      "dateStart": "2026-10-04T01:25:55.000Z",
+      "dateEnd": "2026-10-04T02:22:22.604Z",
+      "dateLabel": "10/3/2026, 8:25:55 PM - 10/3/2026, 9:22:22 PM",
+      "url": "https://balistib.github.io/wvw-logs/?report=20261003-202555-z34k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 52
+      }
+    },
     {
       "id": "20260906-195734-e3ul",
       "title": "Asharom",
